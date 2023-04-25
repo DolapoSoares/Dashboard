@@ -1,5 +1,4 @@
 import React from "react";
-import { useEffect } from "react";
 
 import { HiOutlineUserCircle } from "react-icons/hi";
 import { MdKeyboardArrowDown } from "react-icons/md";
